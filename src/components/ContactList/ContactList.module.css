@@ -1,0 +1,26 @@
+.contactListItemBtn {
+  margin-top: 10px;
+  margin-bottom: 0.5rem;
+  background-color: rgba(23, 26, 32, 0.8);
+  border: none;
+  border-radius: 10%;
+  color: #fff;
+  font-size: 15px;
+  height: 36px;
+  margin-left: 8px;
+  margin-right: 6px;
+  padding: 0 16px 0 16px;
+  color: white;
+  cursor: pointer;
+}
+
+.contactListItemBtn:hover {
+  background-color: rgba(23, 26, 32, 1);
+  cursor: pointer;
+}
+
+.contactList {
+display: flex;
+flex-direction:column;
+padding: 0;
+}
